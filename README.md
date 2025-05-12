@@ -1,2 +1,1 @@
-# City-Life-to-Village-Life-Transformation
-Computer Graphics Project using OpenGL library in C++ Language
+village life scenarioto city life scenario transformation.Computer Graphics Project using OpenGL library in C++ Language.
